@@ -19,6 +19,10 @@ in the PATH.
 
     Tools and documentation for using FFI Perl and Free Pascal.
 
+- [Module::Build::FFI::Pascal](https://metacpan.org/pod/Module::Build::FFI::Pascal)
+
+    Bundle Free Pascal source with your Perl dist.
+
 # AUTHOR
 
 Graham Ollis <plicease@cpan.org>

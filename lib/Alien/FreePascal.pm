@@ -26,6 +26,10 @@ in the PATH.
 
 Tools and documentation for using FFI Perl and Free Pascal.
 
+=item L<Module::Build::FFI::Pascal>
+
+Bundle Free Pascal source with your Perl dist.
+
 =back
 
 =cut
